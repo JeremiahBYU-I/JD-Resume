@@ -1,78 +1,52 @@
-name: John Doe
+name: Jeremiah Dedman
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: jeremiahadedman@gmail.com  
+  github: JeremiahBYU-I
+  linkedin: 
+  phone: (310)-363-9748
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Computer Science
+    time: 2021-2025
+    university: Brigham Young University - Idaho 
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Python
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - Markdown
+      - HTML/CSS
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Git
+      - Github 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I am a Junior Developer focusing on Network Automation and digital transformation. I am profiecient in Python, web development, and Network Development. 
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Junior Network Automation Developer  
     time: 2020-Present
-    company: Google
+    company: Dedman Connect
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Using design thinking to solve business problems. Teaming with other developers, managers, and consultants to create complex solutions around end-to-end automation.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Python, Git, Github, Postman, APIs, Webex, Cisco Meraki, 
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
