@@ -48,24 +48,16 @@ experience:
       Python, Git, Github, Postman, APIs, Webex, Cisco Meraki, 
   
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Resume
+    link: https://jeremiahbyu-i.github.io/JD-Resume/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Created this resume website using Git and Github. 
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: Jun 2021 - Sept 2021
+    role: Volunteer
+    company: The Church of Jesus Christ of Latter Day Saints Bishops Storehouse
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      The Bishops Storehouse is a place for people in need who have gotten permission from the Bishop to receive free food. I did tasks such as helping customers get their food, load the food into their cars, inventory, and cleaning.
+      
